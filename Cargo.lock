@@ -472,8 +472,8 @@ dependencies = [
 
 [[package]]
 name = "knightpark"
-version = "1.1.0"
-source = "git+https://github.com/twallie/knightpark#c97af73b366de63b9973ad84233b484aa5aa36dd"
+version = "1.1.1"
+source = "git+https://github.com/twallie/knightpark#025d99e1c91b5179a8aa82317b1d4ffd705fb865"
 dependencies = [
  "reqwest",
  "serde",
