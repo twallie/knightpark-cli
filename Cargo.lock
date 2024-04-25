@@ -472,8 +472,8 @@ dependencies = [
 
 [[package]]
 name = "knightpark"
-version = "1.0.0"
-source = "git+https://github.com/twallie/knightpark#9d9bfd59a45e4acff69605586246b42b65acb8cc"
+version = "1.1.1"
+source = "git+https://github.com/twallie/knightpark#025d99e1c91b5179a8aa82317b1d4ffd705fb865"
 dependencies = [
  "reqwest",
  "serde",
@@ -484,7 +484,7 @@ dependencies = [
 
 [[package]]
 name = "knightpark-cli"
-version = "0.1.0"
+version = "1.0.0"
 dependencies = [
  "clap",
  "knightpark",
